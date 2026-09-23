@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2b847c9348e91c767b2897a0",
+  "owner": "jwkhnv",
+  "repo": "page-71321bc58b28e2e16b6282f4",
+  "title": "V2ww",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "71321bc58b28e2e16b6282f4",
+      "a": "V2ww",
+      "b": "2027官方最新地址导航",
+      "entity": "V2ww",
+      "brand": "V2ww",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "cc939f854855482bb0b60667301e8949a860b1ecf92bb4062bc5f917e629189f",
+      "content": {
+        "primary_entity": "V2ww",
+        "keyword1": "V2ww",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，面向手机、电脑、平板与路由器用户提供海外网络加速订阅，按流量和在线设备数划分基础版、旗舰版与团队版三档。基础版每月 100GB、3 台设备，适合轻度浏览；旗舰版每月 300GB、5 台设备，配备 IPLC 专线与流媒体优化；团队版每月 1000GB、20 台设备，支持企业定制路由。年付可降低月均支出，套餐均提供对应节点池与订阅配置文档。",
+          "AI_HERO_SUBTITLE": "按设备与流量选择加速方案",
+          "AI_HERO_INTRO": "V2ww 提供海外网络加速订阅，流量规格从每月 100GB 到 1000GB 不等，可同时在线设备从 3 台到 20 台。客户端支持常见手机、电脑与路由器，按订阅信息配置节点后即可使用。",
+          "AI_VISUAL_TITLE": "设备匹配与订阅配置",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "按在线设备数灵活匹配",
+          "AI_HIGHLIGHT_3": "年付方案降低月均成本",
+          "AI_FEATURES_TITLE": "选择套餐的参考维度",
+          "AI_FEATURES_INTRO": "从流量、设备数与节点线路判断哪一档订阅更贴合日常使用场景。",
+          "AI_FEATURE_TITLE_1": "按流量选择档位",
+          "AI_FEATURE_TEXT_1": "100GB 适合文字与轻度视频，300GB 覆盖多设备日常，1000GB 面向高带宽需求。",
+          "AI_FEATURE_TITLE_2": "按设备数量匹配",
+          "AI_FEATURE_TEXT_2": "同时在线设备从 3 台到 20 台分档，手机、电脑、平板与路由器均可作为接入设备。",
+          "AI_FEATURE_TITLE_3": "按周期决定付费",
+          "AI_FEATURE_TEXT_3": "月付灵活调整，年付将基础版降至 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_PLANS_TITLE": "套餐规格对比",
+          "AI_PLANS_INTRO": "比较流量、设备数与线路差异，选出适合自己设备的海外加速订阅。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统对应不同订阅客户端，可依据设备类型查看配置步骤并导入订阅。",
+          "AI_GUIDE_TITLE": "订阅配置三步走",
+          "AI_GUIDE_INTRO": "先定套餐，再确认设备与流量需求，最后按客户端订阅文档完成配置。",
+          "AI_STEP_TITLE_1": "选择订阅档位",
+          "AI_STEP_TEXT_1": "依据每月流量和同时在线设备数，从基础版、旗舰版、团队版中挑选合适规格。",
+          "AI_STEP_TITLE_2": "确认设备适配",
+          "AI_STEP_TEXT_2": "查看手机、电脑或路由器对应的客户端类型，确认订阅信息与设备数量匹配。",
+          "AI_STEP_TITLE_3": "配置订阅信息",
+          "AI_STEP_TEXT_3": "依照所选客户端文档导入订阅，完成节点更新后即可连接使用加速服务。",
+          "AI_CLOSING_TITLE": "海外加速订阅配置",
+          "AI_CLOSING_TEXT": "按设备与流量选好套餐，参照客户端文档即可完成订阅配置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "V2ww 套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "先看设备数量：1 至 3 台选基础版，4 至 5 台选旗舰版，6 台以上或团队使用选团队版。再看流量：每月 100GB 以内基础版够用，300GB 左右选旗舰版，1000GB 选团队版。年付比月付节省两个月费用。",
+          "AI_FAQ_QUESTION_2": "旗舰版和基础版的主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "旗舰版流量从 100GB 提升到 300GB，设备数从 3 台增加到 5 台，并加入 IPLC 专线用于游戏加速优化，同时提供 7x24 优先工单支持。基础版则面向轻量使用的个人用户。",
+          "AI_FAQ_QUESTION_3": "一台订阅可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出同时在线数量可能导致连接中断，建议按照实际使用设备数选择对应套餐。",
+          "AI_FAQ_QUESTION_4": "按年付费比按月付费省多少？",
+          "AI_FAQ_ANSWER_4": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。年付相当于节省两个月的费用，适合确定长期使用的用户。",
+          "AI_FAQ_QUESTION_5": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_5": "订购套餐后获取订阅地址，在对应客户端中选择从订阅导入或手动添加配置，粘贴地址后更新节点列表即可。不同客户端的具体菜单名称不同，请参照所用客户端的配置文档操作。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zjy666.cn",
+    "host": "zjy666.cn"
+  },
+  "file_hashes": {
+    "index.html": "dceb58da58205c1a0d3e7dc22ba588ecfdb0eb3f30cd36806b87a34583d9c244",
+    "sitemap.xml": "5190d0960ff8d25afbc25a68b1afe8af2a75bbd2cc62afefc7d74aa4e50d6075",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "25f63447eb6016942f819edbf9e1bddd26b3050ea8fea657b59ae508a84cb585",
+    "robots.txt": "636395e1de01da3a9426d79d2459bbc78ce6a0db3f2a2c7b69e5bb78a3c8eaeb",
+    "0dedd4caa90636b17239a5882ab02b9d.txt": "d40d76ef34b8d3ab7b808ff06ce4da8d6e193ef410e074233e597dd4b8cb542d"
+  },
+  "revision": "186180df4b0ca389b0a098d46d2d07d7a94d748d6885a3a97cee3f962c64acc8"
+}
